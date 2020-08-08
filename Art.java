@@ -1,3 +1,7 @@
+/**
+* This class prints an image using multiple print statements
+* @author Ananya Heroor
+*/
 public class Art{
     public static void main (String[] args){
         System.out.println(",-.___,-.");
